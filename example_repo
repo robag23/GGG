@@ -1,0 +1,11 @@
+# Step 1 - Create Issues (done manually in GitHub)
+# Step 2
+# Create branches, implement changes, commit, push, create PRs, merge PRs
+git checkout -b add-error-handling-login
+# Implement changes
+git add .
+git commit -m "Added error handling to the login function"
+git push origin add-error-handling-login
+# Create PR and merge
+# Repeat the same process for the second issue
+
