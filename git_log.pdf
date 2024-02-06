@@ -1,0 +1,32 @@
+# Step 1
+mkdir git_task_project
+# Step 2
+cd git_task_project
+# Step 3
+git init
+# Step 4
+git status
+# Step 5
+touch helloWorld.py
+# Step 6
+git status
+# Step 7
+git add helloWorld.py
+# Step 8
+git status
+# Step 9
+echo "print('Git is awesome!')" > helloWorld.py
+# Step 10
+git status
+# Step 11 - Take screenshot and save as git_modified.pdf/git_modified.jpeg
+# Step 12
+git add helloWorld.py
+# Step 13
+git status
+# Step 14
+git commit -m "Changed message to 'Git is awesome!'"
+# Step 15
+git status
+# Step 16
+git log
+
