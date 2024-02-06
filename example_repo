@@ -1,5 +1,4 @@
-# Step 1 - Create Issues (done manually in GitHub)
-# Step 2
+# Step 1
 # Create branches, implement changes, commit, push, create PRs, merge PRs
 git checkout -b add-error-handling-login
 # Implement changes
